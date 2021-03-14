@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.4.10'
 gem 'rails', '3.2.16'
-gem 'rake', '< 11.0'
+gem 'rake', '< 13.0'
 gem 'pg', '0.12.2'
 
 group :development, :test do
